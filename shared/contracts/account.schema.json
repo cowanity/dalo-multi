@@ -1,0 +1,48 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "DaloAccount",
+  "type": "object",
+  "required": [
+    "id",
+    "displayName",
+    "platform",
+    "iconVariant"
+  ],
+  "properties": {
+    "id": {
+      "type": "string"
+    },
+    "displayName": {
+      "type": "string",
+      "minLength": 1
+    },
+    "platform": {
+      "enum": [
+        "macos",
+        "windows",
+        "android",
+        "ios"
+      ]
+    },
+    "iconVariant": {
+      "type": "string"
+    },
+    "note": {
+      "type": "string"
+    },
+    "favorite": {
+      "type": "boolean"
+    },
+    "startupEnabled": {
+      "type": "boolean"
+    },
+    "engineVersion": {
+      "type": "string"
+    },
+    "metadata": {
+      "type": "object",
+      "additionalProperties": true
+    }
+  },
+  "additionalProperties": false
+}

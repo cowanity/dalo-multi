@@ -1,0 +1,10 @@
+{
+  "release": "v1.1",
+  "display_name": "Dalỏ Multi",
+  "technical_name": "Dalo Multi",
+  "executable": "DaloMulti",
+  "bundle_id": "app.dalo.multi",
+  "dmg_prefix": "Dalo-Multi-v1.1",
+  "main_icon_alias": "dalo_main",
+  "forbidden_old_name_occurrences": []
+}

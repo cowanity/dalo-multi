@@ -1,0 +1,10 @@
+{
+  "release": "v1.2",
+  "swift_syntax_parse": "PASS",
+  "bash_syntax": "PASS",
+  "swift_shell_action_dispatch": "PASS",
+  "zero_byte_icons": 0,
+  "dalo_main_asset_changed": false,
+  "safe_rebuild_rollback_swap": true,
+  "note": "macOS SwiftUI type-check and DMG build must run on macOS SDK; this container cannot perform the final Apple-framework compilation."
+}

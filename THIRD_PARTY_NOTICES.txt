@@ -1,0 +1,8 @@
+THIRD-PARTY NOTICE
+
+Technical references:
+- ZaloMulti-macOS by Nguyen Cong Truong (MIT License)
+- public reverse-engineering notes used during the multi-instance investigation
+
+The SwiftUI manager UI is independently implemented.
+This package is not affiliated with Zalo/VNG.

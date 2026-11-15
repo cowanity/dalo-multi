@@ -1,0 +1,58 @@
+{
+  "release": "v1.1",
+  "png_source_resolution": "1024x1024",
+  "theme_icns_regenerated": true,
+  "external_crop_background_removed": true,
+  "stats": {
+    "business": {
+      "removed_external_pixels": 182131,
+      "top_center_alpha": 0,
+      "left_center_alpha": 0
+    },
+    "money": {
+      "removed_external_pixels": 134817,
+      "top_center_alpha": 0,
+      "left_center_alpha": 0
+    },
+    "gaming": {
+      "removed_external_pixels": 466046,
+      "top_center_alpha": 0,
+      "left_center_alpha": 255
+    },
+    "study": {
+      "removed_external_pixels": 171834,
+      "top_center_alpha": 0,
+      "left_center_alpha": 255
+    },
+    "sleepy": {
+      "removed_external_pixels": 194767,
+      "top_center_alpha": 0,
+      "left_center_alpha": 255
+    },
+    "chill": {
+      "removed_external_pixels": 192528,
+      "top_center_alpha": 0,
+      "left_center_alpha": 255
+    },
+    "cute": {
+      "removed_external_pixels": 168339,
+      "top_center_alpha": 0,
+      "left_center_alpha": 255
+    },
+    "meme_doge": {
+      "removed_external_pixels": 121408,
+      "top_center_alpha": 0,
+      "left_center_alpha": 255
+    },
+    "galaxy": {
+      "removed_external_pixels": 108819,
+      "top_center_alpha": 0,
+      "left_center_alpha": 0
+    },
+    "minimal_black": {
+      "removed_external_pixels": 498747,
+      "top_center_alpha": 0,
+      "left_center_alpha": 0
+    }
+  }
+}
